@@ -8,7 +8,7 @@ export const Route = createFileRoute("/")({
 function App() {
   return (
     <div>
-      <header>
+      <header className="text-white text-3xl">
         <h1>.*ignore playground</h1>
       </header>
     </div>
